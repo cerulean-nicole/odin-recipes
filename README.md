@@ -1,1 +1,2 @@
 # odin-recipes
+So far I've learnt how to create webpages, add links, and add images. I've learnt how to create lists and different ways to format my text. The next thing I'm going to learn is how to make style sheets.
